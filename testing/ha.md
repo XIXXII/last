@@ -1,1 +1,1 @@
-<img src = "view.jpeg" alt = "new">
+<img src = "test.jpg" alt = "new">
